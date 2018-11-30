@@ -1,23 +1,11 @@
 {
-	"departments": [{
-			"id": 1,
-			"name": "HR",
-			"slug": "hr"
-		},
-		{
-			"id": 2,
-			"name": "Projects",
-			"slug": "projects"
-		},
-		{
-			"id": 3,
-			"name": "Sales",
-			"slug": "sales"
-		},
-		{
-			"id": 4,
-			"name": "Website",
-			"slug": "website"
-		}
-	]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
