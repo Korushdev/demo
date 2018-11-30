@@ -2,26 +2,22 @@
   "departments": [
     { 
       "id": 1, 
-      "name": 
-      "HR", 
+      "name": "HR", 
       "slug": "hr" 
     },
     { 
       "id": 2, 
-      "name": 
-      "Projects", 
+      "name": "Projects", 
       "slug": "projects" 
     },
     { 
       "id": 3, 
-      "name": 
-      "Sales", 
+      "name": "Sales", 
       "slug": "sales" 
     },
     { 
       "id": 4, 
-      "name": 
-      "Website", 
+      "name": "Website", 
       "slug": "website" 
     }
   ]
